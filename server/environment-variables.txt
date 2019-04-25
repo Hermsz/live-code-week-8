@@ -1,0 +1,3 @@
+JWT_SECRET="12345"
+MONGODB="mongodb+srv://admin:865Ni3xWqIfttoGM@hacktiv8project-qcowo.gcp.mongodb.net/from-nasa-with-love"
+NASA_API="qTxHXKPNy9n9fQG56Mz0e4geCmHAnXzztdeU109B"
